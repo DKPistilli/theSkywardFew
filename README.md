@@ -24,6 +24,7 @@ last edit on 27 Dec 2015
   - divide between character and dndClass section
   - place title @ top and pick font for stub until logo designed
 - Find images for each characters preview screen
+- Find images for each class distinction
 - alter the images for each character preview screen to fit dimensions
 - alter the images for each class distinction to fit dimensions
 
