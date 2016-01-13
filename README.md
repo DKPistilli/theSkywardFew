@@ -4,20 +4,22 @@ programmed by Dorian Pistilli (dkpistilli@gmail.com)
 last edit on 27 Dec 2015
 
 ##Todo List
-- sketch the design outline of the individual character pages
+- finalize what the background of each characters page should be (standardized? individual pref? unclear)
 - write the individual character pages for the following (or ask their players for them):
   - mordinar
   - boost
   - Johnny
   - hothral
   - Ymute
-  - Kuma
 - add names to front page somewhere? maybe on highlight? their absence is starting to bug me instead of seeming like a cool design
-- verify that logo and title logo are being designed, if not design myself
-- replace title, and add tab logo
+- replace title, and add tab logo (unclear if needed)
 - finish all of the different class icons (for modularity sake. its gonna be annoying in the future when class icons are missing)
 
 ##(completed)
+- verify that logo and title logo are being designed, if not design myself
+- sketch the design outline of the individual character pages
+- write the individual character pages for the following (or ask their players for them):
+  - Kuma
 - sketch and decide on design of main characters page (avengers img style)
 - build main character page
   - set up cols and divs
