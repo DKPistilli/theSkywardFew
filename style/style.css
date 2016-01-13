@@ -1,5 +1,8 @@
 body {
-    background-color: white;
+/*    background-image: url("../assets/intro-bg.jpg");*/
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #character-cols {
@@ -52,9 +55,7 @@ body {
 }
 
 #title-banner h1 {
-    /*font-family: 'Calligraffitti', cursive;
-    font-family: 'Bilbo Swash Caps', cursive;*/
-    font-family: 'Eagle Lake', cursive;
-    font-size: 64px;
-    color: black;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 56px;
+    color: white;
 }
